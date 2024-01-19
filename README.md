@@ -1,5 +1,8 @@
 # Pengelolaan data sekolah
 
+> ## Link Yooutube
+- https://youtu.be/Ii3OOw7O4FI?si=f8yl0tmz741O7pwW
+
 ## Anggota Kelompok <br>
 
 | Nama                      | NIM       | Kelas     | Mata Kuliah                 |
