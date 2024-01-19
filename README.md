@@ -1,6 +1,6 @@
 # Pengelolaan data sekolah
 
-> ## Link Yooutube
+> ## Link YoTube
 - https://youtu.be/Ii3OOw7O4FI?si=f8yl0tmz741O7pwW
 
 ## Anggota Kelompok <br>
